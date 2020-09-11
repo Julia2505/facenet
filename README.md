@@ -1,4 +1,5 @@
-# Face Recognition using Tensorflow [![Build Status][travis-image]][travis]
+# Uploading to TensorFlow 2.0 has been done
+# Face Recognition using Tensorflow
 
 [travis-image]: http://travis-ci.org/davidsandberg/facenet.svg?branch=master
 [travis]: http://travis-ci.org/davidsandberg/facenet
